@@ -1,0 +1,1 @@
+NeoGS is a big step forward from old GS sound card for zx spectrum. It is capable of DMA, has faster CPU (up to 24 MHz), has SD card slot and MP3 decoder.
